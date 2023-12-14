@@ -36,9 +36,11 @@ class MultiSelectDropDownState extends State<MultiSelectDropDown> {
   @override
   void initState() {
     super.initState();
-    setState(() {
-      selectedItems = widget.value!.split(widget.separator);
-    });
+    if (widget.value != null) {
+      setState(() {
+        selectedItems = widget.value!.split(widget.separator);
+      });
+    }
   }
 
   @override

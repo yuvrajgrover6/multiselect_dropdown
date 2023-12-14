@@ -91,7 +91,7 @@ class PrimaryTextField extends StatelessWidget {
                           contentPadding: const EdgeInsets.symmetric(
                               vertical: 16, horizontal: 20),
                           filled: true,
-                          fillColor: primaryColor,
+                          fillColor: primaryColor.withOpacity(0.1),
                           prefixIcon: prefixIcon,
                           suffixIcon: showSuffixIcon
                               ? GestureDetector(

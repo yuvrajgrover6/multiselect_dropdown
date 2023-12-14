@@ -19,6 +19,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Description of bug fixes.
 
+## [1.0.2] - 2023-12-14
+
+### Fixed
+
+- Fixed a bug that was creating null exceptions.
+
 ## [1.0.1] - 2023-12-14
 
 ### Changed

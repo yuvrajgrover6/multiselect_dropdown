@@ -1,0 +1,25 @@
+name: multiselect_dropdown
+description: "MultiSelectDropDown is a Flutter package that offers a versatile and user-friendly multi-select dropdown widget. This package simplifies the process of selecting multiple items from a list, providing developers with a customizable solution for integrating multi-select dropdowns into their Flutter applications."
+version: 1.0.0
+homepage:
+
+environment:
+  sdk: ">=3.2.3"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  # To add assets to your package, add an assets section, like this:
+  # assets:
+  #   - images/a_dot_burr.jpeg
+  #   - images/a_dot_ham.jpeg
+  #

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:multiselect_dropdown/src/multiselect_dialog.dart';
-import 'package:multiselect_dropdown/src/primary_text_field.dart';
+import 'package:multiselect_dropdown_pro/src/multiselect_dialog.dart';
+import 'package:multiselect_dropdown_pro/src/primary_text_field.dart';
 
 class MultiSelectDropDown extends StatefulWidget {
   final String title;

@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
 
 ## Additional Information
 
-For more information, contributions, and issue reporting, please visit the [GitHub repository]("").
+For more information, contributions, and issue reporting, please visit the [GitHub repository]("https://github.com/yuvrajgrover6/multiselect_dropdown").
 
 Feel free to explore and customize the package according to your needs. If you encounter any issues or have suggestions, please don't hesitate to open an issue on GitHub.
 

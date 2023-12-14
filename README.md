@@ -1,6 +1,6 @@
-# MultiSelectDropDown
+# MultiSelectDropDownPro
 
-MultiSelectDropDown is a Flutter package that provides a customizable and easy-to-use multi-select dropdown widget. It allows users to select multiple items from a list and provides a clean user interface.
+MultiSelectDropDown Pro is a Flutter package that provides a customizable and easy-to-use multi-select dropdown widget. It allows users to select multiple items from a list and provides a clean user interface.
 
 ## Features
 
@@ -10,11 +10,11 @@ MultiSelectDropDown is a Flutter package that provides a customizable and easy-t
 
 ## Getting Started
 
-To use this package, add `multiselect_dropdown` as a dependency in your `pubspec.yaml` file.
+To use this package, add `multiselect_dropdown_pro` as a dependency in your `pubspec.yaml` file.
 
 ```yaml
 dependencies:
-  multiselect_dropdown: ^1.0.0
+  multiselect_dropdown_pro: ^1.0.0
 ```
 
 Then run
@@ -27,7 +27,7 @@ flutter pub get
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:multiselect_dropdown/multiselect_dropdown.dart';
+import 'package:multiselect_dropdown_pro/multiselect_dropdown_pro.dart';
 
 void main() {
   runApp(MyApp());
